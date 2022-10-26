@@ -1,0 +1,2 @@
+c
+inters_arrays_string
